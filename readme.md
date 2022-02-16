@@ -1,4 +1,6 @@
-## Sample Mermain graphs
+## Mermaid graphs
+
+Reference [here](https://mermaid-js.github.io/mermaid/) [here](https://gist.github.com/martinwoodward/8ad6296118c975510766d80310db71fd) and [here](https://github.com/mermaid-js/mermaid)
 
 ```mermaid
   graph TD;
